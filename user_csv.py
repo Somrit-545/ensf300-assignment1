@@ -7,23 +7,7 @@
 # Remember to include docstrings and comments throughout your code.
 import numpy as np
 import matplotlib as plt
-
-def check_file_exists(filename):
-    '''Check if a file exists before trying to read it
-    
-    Parameters:
-        filename (str): name of the file to check
-    
-    Returns:
-        bool: True if file exists, False if it doesn't
-    '''
-    try:
-        f = open(filename, "r")
-        f.close()
-        return True
-    except FileNotFoundError:
-        print(f"Error: File '{filename}' not found!")
-        return False
+import csv
 
 def read_csv(filename, include_headers):
     ''' This function take a file name and reads the csv file and converts it to a 2D list
@@ -69,7 +53,7 @@ def read_csv(filename, include_headers):
                     row[pos] = float(row[pos])
             
             full_list += [row]
-    f.close()
+    
     return full_list
 
 
@@ -110,7 +94,6 @@ def write_txt(filename,data,overwrite):
         filename (str): a string that indicates the file name
         data (lst): list containing all nessesary information
         overwrite (bool): Tells the code whether to overwrite or to append the data
-
     '''
     
     # setting a variable to indicate whether it will append or overwrite
