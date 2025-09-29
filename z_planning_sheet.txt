@@ -1,0 +1,23 @@
+Plateform War:
+The common link is the platform 
+
+3 diffrent menus
+
+1. checks (mean, max or min) of (platform) and only if its max/min then display the name of the Game
+2. checks (mean, max or min) release year of games on the (platform) or what is the most popular (genre)
+3. checks (mean, max or min) sales of  a certian (platform) either in a specific region or Global
+
+another Idea for a menu:
+
+1. max ("top"rank, genre, sale_number)
+2. min (lowest rank, least common genre, sale_number)
+3. average (rank, genre, sale_number)
+
+
+Graphs:
+release dates of games from each Publisher?
+    - Plot graph
+    - how many games were released each year 
+        *from top 5 most successful Publishers*
+
+best Publisher of games? bar Graphs, histogram TOP 5 Publishers of games
