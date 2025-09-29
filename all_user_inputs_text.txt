@@ -1,0 +1,610 @@
+Fri Dec  6 10:54:30 2024
+The number of times the program ran is: 1
+The following platforms were searched:['WII']
+Max searches: 0		Min searches: 1		Mean searches: 0
+
+Fri Dec  6 11:43:27 2024
+The number of times the program ran is: 1
+The following platforms were searched:['WII']
+Max searches: 1		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 11:44:55 2024
+The number of times the program ran is: 1
+The following platforms were searched:['WII']
+Max searches: 0		Min searches: 1		Mean searches: 0
+
+Fri Dec  6 11:46:19 2024
+The number of times the program ran is: 1
+The following platforms were searched:['WII']
+Max searches: 0		Min searches: 1		Mean searches: 0
+
+Fri Dec  6 11:46:54 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 11:47:23 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 11:48:16 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 11:50:46 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 11:53:07 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 11:53:39 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 11:54:22 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 11:56:44 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 11:58:04 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 12:00:47 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 12:01:17 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 12:01:41 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 12:02:13 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 12:03:04 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 12:04:33 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 12:07:12 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 12:08:41 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 12:09:48 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 12:11:45 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 12:14:04 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 12:15:56 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 12:16:27 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 12:18:56 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 12:19:39 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 12:23:15 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 12:26:11 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 12:28:11 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 12:28:28 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 12:28:46 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 12:29:32 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 12:34:54 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 12:36:28 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 12:37:33 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 12:38:32 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 12:39:01 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 12:39:39 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 12:40:11 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 12:40:45 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 12:41:03 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 12:41:16 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 12:42:37 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 12:42:58 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 12:46:20 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 12:48:08 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 12:48:33 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 15:09:44 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 15:10:06 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 15:11:08 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 15:11:48 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 15:12:14 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 15:12:37 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 15:13:10 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 15:14:11 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 15:16:14 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 15:16:47 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 15:17:17 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 15:17:41 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 15:17:57 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 15:18:27 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 15:19:01 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 15:19:36 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 15:19:55 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 15:20:13 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 15:20:35 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 17:05:03 2024
+The number of times the program ran is: 1
+The following platforms were searched:['XB']
+Max searches: 0		Min searches: 0		Mean searches: 1
+
+Fri Dec  6 17:06:44 2024
+The number of times the program ran is: 1
+The following platforms were searched:['XB']
+Max searches: 0		Min searches: 0		Mean searches: 1
+
+Fri Dec  6 17:08:10 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 17:09:34 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 17:10:17 2024
+The number of times the program ran is: 1
+The following platforms were searched:['XB']
+Max searches: 0		Min searches: 0		Mean searches: 1
+
+Fri Dec  6 17:11:04 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 17:12:49 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 17:14:06 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 17:16:05 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 17:16:35 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 17:16:57 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 17:17:34 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 17:32:18 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 17:33:31 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 17:41:06 2024
+The number of times the program ran is: 1
+The following platforms were searched:['SCD']
+Max searches: 0		Min searches: 0		Mean searches: 1
+
+Fri Dec  6 17:42:07 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 17:43:36 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 17:44:43 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Fri Dec  6 17:45:43 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Wed Dec 11 18:14:22 2024
+The number of times the program ran is: 1
+The following platforms were searched:['WII']
+Max searches: 1		Min searches: 0		Mean searches: 0
+
+Wed Dec 11 18:26:09 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Wed Dec 11 18:27:20 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Wed Dec 11 18:28:06 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Thu Dec 12 10:03:39 2024
+The number of times the program ran is: 1
+The following platforms were searched:['WII']
+Max searches: 0		Min searches: 1		Mean searches: 0
+
+Thu Dec 12 11:02:16 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Thu Dec 12 15:37:03 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Thu Dec 12 16:37:06 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Thu Dec 12 16:38:16 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Thu Dec 12 16:49:01 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Thu Dec 12 16:49:32 2024
+The number of times the program ran is: 3
+The following platforms were searched:[2600, 'Wii', 'XB']
+Max searches: 1		Min searches: 1		Mean searches: 1
+
+Thu Dec 12 17:42:12 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Thu Dec 12 17:47:10 2024
+The number of times the program ran is: 1
+The following platforms were searched:['Wii']
+Max searches: 0		Min searches: 1		Mean searches: 0
+
+Thu Dec 12 17:53:32 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Thu Dec 12 17:57:49 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Thu Dec 12 17:59:56 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Thu Dec 12 18:02:56 2024
+The number of times the program ran is: 1
+The following platforms were searched:['Wii']
+Max searches: 0		Min searches: 1		Mean searches: 0
+
+Thu Dec 12 18:03:30 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Thu Dec 12 18:11:17 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Thu Dec 12 18:14:30 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Thu Dec 12 18:16:43 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Thu Dec 12 18:17:38 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Thu Dec 12 18:18:58 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Thu Dec 12 18:19:54 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Thu Dec 12 18:27:09 2024
+The number of times the program ran is: 3
+The following platforms were searched:['2600', 'Wii', 'SAT']
+Max searches: 1		Min searches: 1		Mean searches: 1
+
+Thu Dec 12 18:59:51 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Thu Dec 12 19:29:52 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Thu Dec 12 19:30:25 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Thu Dec 12 20:53:34 2024
+The number of times the program ran is: 3
+The following platforms were searched:['Wii', '2600', 'XB']
+Max searches: 1		Min searches: 1		Mean searches: 1
+
+Thu Dec 12 21:05:19 2024
+The number of times the program ran is: 0
+The following platforms were searched:[]
+Max searches: 0		Min searches: 0		Mean searches: 0
+
+Thu Dec 12 21:43:45 2024
+The number of times the program ran is: 3
+The following platforms were searched:['Wii', 'XB', '2600']
+Max searches: 1		Min searches: 1		Mean searches: 1
+
+Wed Sep 17 08:21:17 2025
+The number of times the program ran is: 1
+The following platforms were searched:['X360']
+Max searches: 1		Min searches: 0		Mean searches: 0
+
+Wed Sep 17 08:24:54 2025
+The number of times the program ran is: 2
+The following platforms were searched:['3DS', 'PC']
+Max searches: 2		Min searches: 0		Mean searches: 0
+
+Wed Sep 17 08:26:23 2025
+The number of times the program ran is: 1
+The following platforms were searched:['GB']
+Max searches: 0		Min searches: 0		Mean searches: 1
+
+Wed Sep 17 08:29:29 2025
+The number of times the program ran is: 1
+The following platforms were searched:['PS2']
+Max searches: 1		Min searches: 0		Mean searches: 0
+
