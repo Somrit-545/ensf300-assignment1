@@ -11,6 +11,8 @@ from math import floor
 import general_information as gi
 import user_csv as cs
 import time
+import os
+
 
 def error_message():
     '''This function prints a message when the user enters an invalid input'''
@@ -721,6 +723,15 @@ plt.tight_layout()
 
 # calls the exit message function
 exit_message()
+
+
+# Checks if the directory exists, if not it creates it
+output_dir = "/usercode/final_plots"
+if not os.path.exists(output_dir):
+    os.makedirs(output_dir)
+
+plt.savefig(os.path.join(output_dir, "final.png"))
+
 
 # Shows the graphs
 plt.savefig("/usercode/final_plots/final.png")
