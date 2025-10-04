@@ -125,3 +125,5 @@ number_of_time_program_ran,searched_platforms,max_searches,min_searches,mean_sea
 1,['PS2'],1,0,0
 3,['DC', 'Wii', '3DS'],1,1,1
 3,['DC', '3DS', 'Wii'],1,1,1
+1,['DC'],0,0,1
+1,['DC'],1,0,0
