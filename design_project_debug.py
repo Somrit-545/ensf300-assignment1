@@ -525,8 +525,10 @@ max_search = 0
 min_search = 0
 mean_search = 0
 
-
-
+# Whitebox Testing
+# rank = cs.read_csv("test1.csv", False)
+# sale_number = cs.read_csv("test2.csv", False)
+# genre = cs.read_csv("test3.csv", False)
 
 # Prints the welcoming message to the user before the main program starts
 print(f"-"*70)

@@ -8,6 +8,11 @@
 import numpy as np
 import matplotlib as plt
 import csv
+import os
+
+def check_file_exists(filename):
+    '''Checks if a file exists'''
+    return os.path.exists(filename)
 
 def read_csv(filename, include_headers):
     ''' This function take a file name and reads the csv file and converts it to a 2D list
@@ -29,7 +34,10 @@ def read_csv(filename, include_headers):
 
     if include_headers:
         skip = False
-
+    
+    if not check_file_exists(filename):
+        print(f"Error: File '{filename}' not found!")
+        return []
 
     # opening the file and indicating that the code should read it 
     f = open(filename, "r")
